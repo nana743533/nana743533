@@ -12,7 +12,7 @@
 - **言語**: Python, PHP, Ruby, HTML, CSS , SQL
 - **ツール**: Git, Docker, VSCode, GitHub, MySQL
 
-## 制作物(追加予定)
+## 制作物
 
 - [数当てゲームhit&blowの最小クリア戦略を目指したプログラムの作成](https://github.com/nana743533/Hit-and-Blow-strategy.git)
 - [thinterを用いて作成した電卓GUIアプリケーション](https://github.com/nana743533/Caculator-GUI.git)
