@@ -12,6 +12,6 @@
 - **言語**: Python, PHP, Ruby, HTML, CSS  
 - **ツール**: Git, Docker, VSCode, GitHub
 
-## 制作物
+## 制作物(追加予定)
 
 [数当てゲームhit&blowの最小クリア戦略を目指したプログラムの作成](https://github.com/nana743533/Hit-and-Blow-strategy.git)
