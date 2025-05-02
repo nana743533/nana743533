@@ -14,4 +14,4 @@ Web開発に興味を持ち、独学で約1年間学習を進めてきました�
 
 ## 制作物
 
-[数当てゲームhit&blowの最小クリア戦略を目指したプログラムの作成](https://yuma123.github.io/)
+[数当てゲームhit&blowの最小クリア戦略を目指したプログラムの作成](https://github.com/nana743533/Hit-and-Blow-strategy.git)
