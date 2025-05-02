@@ -9,8 +9,8 @@
 
 ## 技術スタック
 
-- **言語**: Python, PHP, Ruby, HTML, CSS  
-- **ツール**: Git, Docker, VSCode, GitHub
+- **言語**: Python, PHP, Ruby, HTML, CSS , SQL
+- **ツール**: Git, Docker, VSCode, GitHub, MySQL
 
 ## 制作物(追加予定)
 
