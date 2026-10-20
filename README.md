@@ -10,9 +10,10 @@ My roots are in competitive Othello, where I once ranked 5th in Japan. Today I r
 Recently, I've become fascinated with Physical AI: taking AI beyond the screen and into robots that perceive and act in the real world.
 
 ### Writing: ✍️
-I write about what I learn on Zenn.
+I write about what I learn on Zenn and Qiita.
 
 [![Zenn](https://img.shields.io/badge/Zenn-nana743533-3EA8FF?logo=zenn&logoColor=white)](https://zenn.dev/nana743533)
+[![Qiita](https://img.shields.io/badge/Qiita-nana743533-55C500?logo=qiita&logoColor=white)](https://qiita.com/nana743533)
 
 ### Featured Projects: 🚀
 | Project | What it is | Stack |
@@ -34,24 +35,34 @@ I write about what I learn on Zenn.
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" title="SwiftUI" alt="SwiftUI" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/ffffff"><img src="https://cdn.simpleicons.org/expo/000000" title="Expo" alt="Expo" width="55" height="55"/></picture> |
 
 ### Backend:
-| Ruby on Rails | FastAPI | Express | Node.js | PostgreSQL | MySQL | Supabase |
-|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="Ruby on Rails" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"><img src="https://cdn.simpleicons.org/express/000000" title="Express" alt="Express" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="55" height="55"/> |
+| Ruby on Rails | FastAPI | Express | Node.js | Streamlit |
+|----------|----------|----------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="Ruby on Rails" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"><img src="https://cdn.simpleicons.org/express/000000" title="Express" alt="Express" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/> |
+
+### Database / ORM:
+| PostgreSQL | MySQL | Supabase | Drizzle ORM |
+|----------|----------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/drizzle/C5F74F"><img src="https://cdn.simpleicons.org/drizzle/000000" title="Drizzle ORM" alt="Drizzle ORM" width="55" height="55"/></picture> |
 
 ### AI / LLM:
-| Claude API | Gemini API | Azure OpenAI | MCP | RAG |
-|----------|----------|----------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/claude-color.svg" title="Claude" alt="Claude" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/gemini-color.svg" title="Gemini" alt="Gemini" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/azureai-color.svg" title="Azure OpenAI" alt="Azure OpenAI" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/ffffff"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" title="MCP" alt="MCP" width="55" height="55"/></picture> | RAG |
+| LLM APIs | MCP | RAG | OCR / Multimodal |
+|----------|----------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/claude-color.svg" title="Claude API" alt="Claude API" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/gemini-color.svg" title="Gemini API" alt="Gemini API" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/azureai-color.svg" title="Azure OpenAI" alt="Azure OpenAI" width="40" height="40"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/ffffff"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" title="MCP" alt="MCP" width="55" height="55"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/tabler/database-search.svg?color=%23ffffff"><img src="https://api.iconify.design/tabler/database-search.svg?color=%23000000" title="RAG" alt="RAG" width="55" height="55"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/text-recognition.svg?color=%23ffffff"><img src="https://api.iconify.design/mdi/text-recognition.svg?color=%23000000" title="OCR / Multimodal" alt="OCR / Multimodal" width="55" height="55"/></picture> |
 
 ### Infrastructure:
-| AWS | Google Cloud | Azure | Vercel | Docker | Git | GitHub Actions |
+| AWS | Google Cloud | Azure | Cloudflare | Firebase | Vercel | Railway |
 |----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff"><img src="https://cdn.simpleicons.org/vercel/000000" title="Vercel" alt="Vercel" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff"><img src="https://cdn.simpleicons.org/vercel/000000" title="Vercel" alt="Vercel" width="55" height="55"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/railway/ffffff"><img src="https://cdn.simpleicons.org/railway/000000" title="Railway" alt="Railway" width="55" height="55"/></picture> |
+
+### DevOps:
+| Docker | Git | GitHub Actions |
+|----------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> |
 
 ### AI Coding Tools:
-| Claude Code | Cursor |
-|----------|----------|
-| <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/claude-color.svg" title="Claude Code" alt="Claude Code" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff"><img src="https://cdn.simpleicons.org/cursor/000000" title="Cursor" alt="Cursor" width="55" height="55"/></picture> |
+| Claude Code | Codex | Cursor | Orca |
+|----------|----------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/claude-color.svg" title="Claude Code" alt="Claude Code" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/codex-color.svg" title="Codex" alt="Codex" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff"><img src="https://cdn.simpleicons.org/cursor/000000" title="Cursor" alt="Cursor" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/stablyai/orca@99379d1458e840ce4f1aec8995a48526f05dda2f/resources/icon.png" title="Orca" alt="Orca" width="55" height="55"/> |
 
 </div>
 
