@@ -49,6 +49,11 @@ I write about what I learn on Zenn and Qiita.
 |----------|----------|----------|----------|
 | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/claude-color.svg" title="Claude API" alt="Claude API" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/gemini-color.svg" title="Gemini API" alt="Gemini API" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/azureai-color.svg" title="Azure OpenAI" alt="Azure OpenAI" width="40" height="40"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/ffffff"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" title="MCP" alt="MCP" width="55" height="55"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/tabler/database-search.svg?color=%23ffffff"><img src="https://api.iconify.design/tabler/database-search.svg?color=%23000000" title="RAG" alt="RAG" width="55" height="55"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/text-recognition.svg?color=%23ffffff"><img src="https://api.iconify.design/mdi/text-recognition.svg?color=%23000000" title="OCR / Multimodal" alt="OCR / Multimodal" width="55" height="55"/></picture> |
 
+### Machine Learning:
+| PyTorch | Gymnasium | Stable-Baselines3 | MuJoCo | NumPy |
+|----------|----------|----------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Farama-Foundation/Gymnasium@57c1610e80214db72c1c7410d6b65bb1a989e233/docs/_static/img/gymnasium_white.svg"><img src="https://cdn.jsdelivr.net/gh/Farama-Foundation/Gymnasium@57c1610e80214db72c1c7410d6b65bb1a989e233/docs/_static/img/gymnasium_black.svg" title="Gymnasium" alt="Gymnasium" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/DLR-RM/stable-baselines3@b2878f4b83e21f16a53c54a62def628e05fd2e96/docs/_static/img/logo.png" title="Stable-Baselines3" alt="Stable-Baselines3" width="63" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/google-deepmind/mujoco@efdd8cbc2745bb69443167e2ea9b29bec480f907/doc/_static/favicons/favicon-192x192.png" title="MuJoCo" alt="MuJoCo" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> |
+
 ### Infrastructure:
 | AWS | Google Cloud | Azure | Cloudflare | Vercel | Railway |
 |----------|----------|----------|----------|----------|----------|
@@ -63,6 +68,11 @@ I write about what I learn on Zenn and Qiita.
 | Claude Code | Codex | Cursor | Orca |
 |----------|----------|----------|----------|
 | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/claude-color.svg" title="Claude Code" alt="Claude Code" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/codex-color.svg" title="Codex" alt="Codex" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff"><img src="https://cdn.simpleicons.org/cursor/000000" title="Cursor" alt="Cursor" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/stablyai/orca@99379d1458e840ce4f1aec8995a48526f05dda2f/resources/icon.png" title="Orca" alt="Orca" width="55" height="55"/> |
+
+### Hardware:
+| Bambu Lab A1 mini |
+|----------|
+| <img src="https://cdn.simpleicons.org/bambulab" title="Bambu Lab A1 mini" alt="Bambu Lab A1 mini" width="55" height="55"/> |
 
 </div>
 
