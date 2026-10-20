@@ -39,10 +39,10 @@ I write about what I learn on Zenn and Qiita.
 |----------|----------|----------|----------|----------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="Ruby on Rails" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"><img src="https://cdn.simpleicons.org/express/000000" title="Express" alt="Express" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/> |
 
-### Database / ORM:
-| PostgreSQL | MySQL | Supabase | Drizzle ORM |
-|----------|----------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/drizzle/C5F74F"><img src="https://cdn.simpleicons.org/drizzle/000000" title="Drizzle ORM" alt="Drizzle ORM" width="55" height="55"/></picture> |
+### Database:
+| PostgreSQL | MySQL | Supabase |
+|----------|----------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="55" height="55"/> |
 
 ### AI / LLM:
 | LLM APIs | MCP | RAG | OCR / Multimodal |
