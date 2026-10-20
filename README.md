@@ -26,53 +26,70 @@ I write about what I learn on Zenn and Qiita.
 
 ### Languages:
 | TypeScript | Python3 | Ruby | Go | C++ | Swift |
-|----------|----------|----------|----------|----------|----------|
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="55" height="55"/> |
 
 ### Frontend:
 | Next.js | React | Tailwind CSS | SwiftUI | Expo |
-|----------|----------|----------|----------|----------|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/swift/swift-original.svg" title="SwiftUI" alt="SwiftUI" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/ffffff"><img src="https://cdn.simpleicons.org/expo/000000" title="Expo" alt="Expo" width="55" height="55"/></picture> |
 
 ### Backend:
 | Ruby on Rails | FastAPI | Express | Node.js | Streamlit |
-|----------|----------|----------|----------|----------|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/rails/rails-plain.svg" title="Ruby on Rails" alt="Ruby on Rails" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff"><img src="https://cdn.simpleicons.org/express/000000" title="Express" alt="Express" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/> |
 
 ### Database:
 | PostgreSQL | MySQL | Supabase |
-|----------|----------|----------|
+|:--------:|:--------:|:--------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="55" height="55"/> |
 
 ### AI / LLM:
 | LLM APIs | MCP | RAG | OCR / Multimodal |
-|----------|----------|----------|----------|
+|:--------:|:--------:|:--------:|:--------:|
 | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/claude-color.svg" title="Claude API" alt="Claude API" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/gemini-color.svg" title="Gemini API" alt="Gemini API" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/azureai-color.svg" title="Azure OpenAI" alt="Azure OpenAI" width="40" height="40"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/ffffff"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" title="MCP" alt="MCP" width="55" height="55"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/tabler/database-search.svg?color=%23ffffff"><img src="https://api.iconify.design/tabler/database-search.svg?color=%23000000" title="RAG" alt="RAG" width="55" height="55"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/text-recognition.svg?color=%23ffffff"><img src="https://api.iconify.design/mdi/text-recognition.svg?color=%23000000" title="OCR / Multimodal" alt="OCR / Multimodal" width="55" height="55"/></picture> |
-
-### Machine Learning:
-| PyTorch | Gymnasium | Stable-Baselines3 | MuJoCo | NumPy |
-|----------|----------|----------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Farama-Foundation/Gymnasium@57c1610e80214db72c1c7410d6b65bb1a989e233/docs/_static/img/gymnasium_white.svg"><img src="https://cdn.jsdelivr.net/gh/Farama-Foundation/Gymnasium@57c1610e80214db72c1c7410d6b65bb1a989e233/docs/_static/img/gymnasium_black.svg" title="Gymnasium" alt="Gymnasium" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/DLR-RM/stable-baselines3@b2878f4b83e21f16a53c54a62def628e05fd2e96/docs/_static/img/logo.png" title="Stable-Baselines3" alt="Stable-Baselines3" width="63" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/google-deepmind/mujoco@efdd8cbc2745bb69443167e2ea9b29bec480f907/doc/_static/favicons/favicon-192x192.png" title="MuJoCo" alt="MuJoCo" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> |
 
 ### Infrastructure:
 | AWS | Google Cloud | Azure | Cloudflare | Vercel | Railway |
-|----------|----------|----------|----------|----------|----------|
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff"><img src="https://cdn.simpleicons.org/vercel/000000" title="Vercel" alt="Vercel" width="55" height="55"/></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/railway/ffffff"><img src="https://cdn.simpleicons.org/railway/000000" title="Railway" alt="Railway" width="55" height="55"/></picture> |
 
 ### DevOps:
 | Docker | Git | GitHub Actions |
-|----------|----------|----------|
+|:--------:|:--------:|:--------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> |
 
 ### AI Coding Tools:
 | Claude Code | Codex | Cursor | Orca |
-|----------|----------|----------|----------|
+|:--------:|:--------:|:--------:|:--------:|
 | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.45.0/icons/claude-color.svg" title="Claude Code" alt="Claude Code" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/codex-color.svg" title="Codex" alt="Codex" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff"><img src="https://cdn.simpleicons.org/cursor/000000" title="Cursor" alt="Cursor" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/stablyai/orca@99379d1458e840ce4f1aec8995a48526f05dda2f/resources/icon.png" title="Orca" alt="Orca" width="55" height="55"/> |
 
+</div>
+
+## Exploring: Physical AI 🤖
+I'm just getting started here. These are the areas I want to go deeper into, and the frameworks I'm learning for each.
+
+<div>
+
+### Machine Learning:
+| PyTorch | JAX | Hugging Face | scikit-learn | NumPy |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/jax-ml/jax@33c359d7e677769414dcb68a31064cb47281da1d/images/jax_logo.svg" title="JAX" alt="JAX" width="76" height="44"/> | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/huggingface-color.svg" title="Hugging Face" alt="Hugging Face" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> |
+
+### Reinforcement Learning:
+| Gymnasium | Stable-Baselines3 | OpenSpiel | AlphaZero (MCTS) |
+|:--------:|:--------:|:--------:|:--------:|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Farama-Foundation/Gymnasium@57c1610e80214db72c1c7410d6b65bb1a989e233/docs/_static/img/gymnasium_white.svg"><img src="https://cdn.jsdelivr.net/gh/Farama-Foundation/Gymnasium@57c1610e80214db72c1c7410d6b65bb1a989e233/docs/_static/img/gymnasium_black.svg" title="Gymnasium" alt="Gymnasium" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/DLR-RM/stable-baselines3@b2878f4b83e21f16a53c54a62def628e05fd2e96/docs/_static/img/logo.png" title="Stable-Baselines3" alt="Stable-Baselines3" width="63" height="55"/> | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/deepmind-color.svg" title="OpenSpiel" alt="OpenSpiel" width="55" height="55"/> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/tabler/binary-tree-2.svg?color=%23ffffff"><img src="https://api.iconify.design/tabler/binary-tree-2.svg?color=%23000000" title="AlphaZero (MCTS)" alt="AlphaZero (MCTS)" width="55" height="55"/></picture> |
+
+### Robotics / Humanoid:
+| ROS 2 | MuJoCo | Isaac Lab | LeRobot | Unitree |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ros/ffffff"><img src="https://cdn.simpleicons.org/ros/000000" title="ROS 2" alt="ROS 2" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/google-deepmind/mujoco@efdd8cbc2745bb69443167e2ea9b29bec480f907/doc/_static/favicons/favicon-192x192.png" title="MuJoCo" alt="MuJoCo" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/157846462?s=200&v=4" title="Isaac Lab" alt="Isaac Lab" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/huggingface/lerobot@3991580a5673f5f0219a4e8835a5f973eeccf9a7/media/readme/lerobot-logo-thumbnail.png" title="LeRobot" alt="LeRobot" width="123" height="40"/> | <img src="https://avatars.githubusercontent.com/u/44998897?s=200&v=4" title="Unitree" alt="Unitree" width="55" height="55"/> |
+
 ### Hardware:
-| Bambu Lab A1 mini |
-|----------|
-| <img src="https://cdn.simpleicons.org/bambulab" title="Bambu Lab A1 mini" alt="Bambu Lab A1 mini" width="55" height="55"/> |
+| Bambu Lab A1 mini | Arduino | Raspberry Pi | NVIDIA Jetson |
+|:--------:|:--------:|:--------:|:--------:|
+| <img src="https://cdn.simpleicons.org/bambulab" title="Bambu Lab A1 mini" alt="Bambu Lab A1 mini" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/nvidia" title="NVIDIA Jetson" alt="NVIDIA Jetson" width="55" height="55"/> |
 
 </div>
 
