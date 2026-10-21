@@ -67,12 +67,12 @@ I write about what I learn on Zenn and Qiita.
 </div>
 
 ## Exploring: Physical AI 🤖
-I'm just getting started here. These are the areas I want to go deeper into, and the frameworks I'm learning for each.
+I'm just getting started here. The only ones I've actually used so far are NumPy and my Bambu Lab A1 mini 3D printer (marked ✅). Everything else below is on my list to learn next.
 
 <div>
 
 ### Machine Learning:
-| PyTorch | JAX | Hugging Face | scikit-learn | NumPy |
+| PyTorch | JAX | Hugging Face | scikit-learn | NumPy ✅ |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/jax-ml/jax@33c359d7e677769414dcb68a31064cb47281da1d/images/jax_logo.svg" title="JAX" alt="JAX" width="76" height="44"/> | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.95.1/icons/huggingface-color.svg" title="Hugging Face" alt="Hugging Face" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> |
 
@@ -87,7 +87,7 @@ I'm just getting started here. These are the areas I want to go deeper into, and
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ros/ffffff"><img src="https://cdn.simpleicons.org/ros/000000" title="ROS 2" alt="ROS 2" width="55" height="55"/></picture> | <img src="https://cdn.jsdelivr.net/gh/google-deepmind/mujoco@efdd8cbc2745bb69443167e2ea9b29bec480f907/doc/_static/favicons/favicon-192x192.png" title="MuJoCo" alt="MuJoCo" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/157846462?s=200&v=4" title="Isaac Lab" alt="Isaac Lab" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/huggingface/lerobot@3991580a5673f5f0219a4e8835a5f973eeccf9a7/media/readme/lerobot-logo-thumbnail.png" title="LeRobot" alt="LeRobot" width="123" height="40"/> | <img src="https://avatars.githubusercontent.com/u/44998897?s=200&v=4" title="Unitree" alt="Unitree" width="55" height="55"/> |
 
 ### Hardware:
-| Bambu Lab A1 mini | Arduino | Raspberry Pi | NVIDIA Jetson |
+| Bambu Lab A1 mini ✅ | Arduino | Raspberry Pi | NVIDIA Jetson |
 |:--------:|:--------:|:--------:|:--------:|
 | <img src="https://cdn.simpleicons.org/bambulab" title="Bambu Lab A1 mini" alt="Bambu Lab A1 mini" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/nvidia" title="NVIDIA Jetson" alt="NVIDIA Jetson" width="55" height="55"/> |
 
